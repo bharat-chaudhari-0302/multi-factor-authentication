@@ -73,11 +73,6 @@ The project uses the following key dependencies (defined in `pom.xml`):
 - `spring-boot-starter-web`: For building REST APIs.
 - `google-auth-library`: For TOTP generation and validation.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
